@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 23 Sep 2023 11:53:31 at https://bookland.w3itexpert.com/xhtml/index-2.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://bookland.w3itexpert.com/xhtml/index-2.html -O1 "C:\My Web Sites\book4" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:54:07	Error: 	"Not Found" (404) at link https://makaanlelo.com/tf_products_007/bookland/xhtml/social-image.png (from https://bookland.w3itexpert.com/xhtml/index-2.html)
+11:54:31	Error: 	"Not Found" (404) at link https://bookland.w3itexpert.com/xhtml/images/background/waveelement2.png (from https://bookland.w3itexpert.com/xhtml/index-2.html)
+11:54:32	Error: 	"Not Found" (404) at link https://bookland.w3itexpert.com/xhtml/images/icon/download-icon2.png (from https://bookland.w3itexpert.com/xhtml/css/style.css)
+11:54:32	Error: 	"Not Found" (404) at link https://bookland.w3itexpert.com/xhtml/images/icon/download-icon1.png (from https://bookland.w3itexpert.com/xhtml/css/style.css)
+11:54:35	Error: 	"Not Found" (404) at link https://bookland.w3itexpert.com/xhtml/blog-details.html (from https://bookland.w3itexpert.com/xhtml/blog-grid.html)
+11:54:35	Error: 	"Not Found" (404) at link https://bookland.w3itexpert.com/xhtml/blog-details-2.html (from https://bookland.w3itexpert.com/xhtml/blog-list-sidebar.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 5 seconds : 160 links scanned, 153 files written (7375448 bytes overall) [5112208 bytes received at 78649 bytes/sec], 2813033 bytes transferred using HTTP compression in 52 files, ratio 17%, 14.5 requests per connection
+(6 errors, 0 warnings, 0 messages)
